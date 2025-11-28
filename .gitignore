@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+
+best_model.pkl
+*.pkl
+
 __pycache__/
 *.py[codz]
 *$py.class
